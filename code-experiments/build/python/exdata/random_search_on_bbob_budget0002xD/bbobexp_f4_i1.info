@@ -1,0 +1,18 @@
+suite = 'bbob', funcId = 4, DIM = 2, Precision = 1.000e-08, algId = 'random_search(cocoex.solvers)', coco_version = '2.6.2', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f4/bbobexp_f4_DIM2_i1.dat, 1:5|4.4e+01, 2:5|4.6e+01, 3:5|1.9e+01, 4:5|5.4e+01, 5:5|5.2e+01, 91:5|3.1e+01, 92:5|3.9e+01, 93:5|4.3e+01, 94:5|3.1e+01, 95:5|6.6e+01, 96:5|1.1e+02, 97:5|2.7e+01, 98:5|2.5e+01, 99:5|1.1e+02, 100:5|5.9e+01
+suite = 'bbob', funcId = 4, DIM = 3, Precision = 1.000e-08, algId = 'random_search(cocoex.solvers)', coco_version = '2.6.2', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f4/bbobexp_f4_DIM3_i1.dat, 1:7|8.3e+01, 2:7|6.8e+01, 3:7|3.3e+01, 4:7|8.0e+01, 5:7|6.4e+01, 91:7|8.7e+01, 92:7|4.8e+01, 93:7|1.3e+02, 94:7|1.9e+02, 95:7|1.1e+02, 96:7|1.2e+02, 97:7|7.1e+01, 98:7|5.3e+01, 99:7|6.0e+01, 100:7|9.0e+01
+suite = 'bbob', funcId = 4, DIM = 5, Precision = 1.000e-08, algId = 'random_search(cocoex.solvers)', coco_version = '2.6.2', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f4/bbobexp_f4_DIM5_i1.dat, 1:11|1.2e+02, 2:11|1.8e+02, 3:11|2.3e+02, 4:11|1.9e+02, 5:11|1.3e+02, 91:11|2.4e+02, 92:11|2.4e+02, 93:11|1.9e+02, 94:11|2.2e+02, 95:11|1.0e+02, 96:11|2.4e+02, 97:11|6.3e+01, 98:11|7.3e+01, 99:11|9.3e+01, 100:11|1.0e+02
+suite = 'bbob', funcId = 4, DIM = 10, Precision = 1.000e-08, algId = 'random_search(cocoex.solvers)', coco_version = '2.6.2', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f4/bbobexp_f4_DIM10_i1.dat, 1:21|2.3e+02, 2:21|2.7e+02, 3:21|4.2e+02, 4:21|2.8e+02, 5:21|1.9e+02, 91:21|2.8e+02, 92:21|2.7e+02, 93:21|2.2e+02, 94:21|3.4e+02, 95:21|3.1e+02, 96:21|3.5e+02, 97:21|2.2e+02, 98:21|1.8e+02, 99:21|3.0e+02, 100:21|2.6e+02
+suite = 'bbob', funcId = 4, DIM = 20, Precision = 1.000e-08, algId = 'random_search(cocoex.solvers)', coco_version = '2.6.2', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f4/bbobexp_f4_DIM20_i1.dat, 1:41|6.4e+02, 2:41|6.2e+02, 3:41|6.9e+02, 4:41|7.2e+02, 5:41|6.4e+02, 91:41|7.3e+02, 92:41|5.2e+02, 93:41|7.0e+02, 94:41|7.0e+02, 95:41|5.9e+02, 96:41|6.6e+02, 97:41|4.7e+02, 98:41|6.2e+02, 99:41|7.1e+02, 100:41|4.9e+02
+suite = 'bbob', funcId = 4, DIM = 40, Precision = 1.000e-08, algId = 'random_search(cocoex.solvers)', coco_version = '2.6.2', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f4/bbobexp_f4_DIM40_i1.dat, 1:81|1.2e+03, 2:81|1.5e+03, 3:81|1.4e+03, 4:81|1.2e+03, 5:81|1.4e+03, 91:81|1.2e+03, 92:81|1.3e+03, 93:81|1.3e+03, 94:81|1.2e+03, 95:81|1.2e+03, 96:81|9.5e+02, 97:81|1.2e+03, 98:81|1.0e+03, 99:81|1.2e+03, 100:81|1.2e+03
